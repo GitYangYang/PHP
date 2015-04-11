@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<food>
+    <list id="1">
+        <title>太平洋美容医院</title>
+        <address>地址:延吉市人民路188号(国贸大厦斜对面)</address>
+        <pic>shop/sp_1.png</pic>
+        <html>shop/sp_1.html</html>
+        <ch1></ch1>
+    </list>
+    <list id="2">
+        <title>金光善整形美容医院</title>
+        <address>地址:延吉市海兰路34号</address>
+        <pic>shop/sp_2.png</pic>
+        <html>shop/sp_2.html</html>
+        <ch1></ch1>
+    </list>
+    <list id="3">
+        <title>延吉西市场</title>
+        <address>地址:延吉市新兴街</address>
+        <pic>shop/sp_3.png</pic>
+        <html>shop/sp_3.html</html>
+        <ch1></ch1>
+    </list>
+    <list id="4">
+        <title>韩百百货</title>
+        <address>地址:延吉市新兴街附近</address>
+        <pic>shop/sp_4.png</pic>
+        <html>shop/sp_4.html</html>
+        <ch1></ch1>
+    </list>
+    <list id="5">
+        <title>延吉成宝</title>
+        <address>地址:延吉市解放路350号</address>
+        <pic>shop/sp_5.png</pic>
+        <html>shop/sp_5.html</html>
+        <ch1></ch1>
+    </list>
+    <list id="6">
+        <title>延吉金华城</title>
+        <address>地址:延吉市参花街627号由北向南方向西市场站点</address>
+        <pic>shop/sp_6.png</pic>
+        <html>shop/sp_6.html</html>
+        <ch1></ch1>
+    </list>
+    <list id="7">
+        <title>时代广场地下商场</title>
+        <address>地址：延吉市时代广场</address>
+        <pic>shop/sp_7.png</pic>
+        <html>shop/sp_7.html</html>
+        <ch1></ch1>
+    </list>
+    <list id="8">
+        <title>地下商场</title>
+        <address>地址:延吉市系市场对面</address>
+        <pic>shop/sp_8.png</pic>
+        <html>shop/sp_8.html</html>
+        <ch1></ch1>
+    </list>
+    <list id="9">
+        <title>长白神特产超市</title>
+        <address>地址:延吉市日报社附近</address>
+        <pic>shop/sp_9.png</pic>
+        <html>shop/sp_9.html</html>
+        <ch1></ch1>
+    </list>
+    <list id="10">
+        <title>巴黎斯美丽清晨</title>
+        <address>地址:延吉市公园对面信息产业园2楼</address>
+        <pic>shop/sp_10.png</pic>
+        <html>shop/sp_10.html</html>
+        <ch1></ch1>
+    </list>
+    <list id="11">
+        <title>圣手美甲</title>
+        <address>地址:延吉市步行街千盛广场南门往西5米远</address>
+        <pic>shop/sp_11.png</pic>
+        <html>shop/sp_11.html</html>
+        <ch1></ch1>
+    </list>
+</food>

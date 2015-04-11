@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<food>
+    <list id="1">
+        <title>以勒包饭</title>
+        <address>地址:延吉市爱丹路44号</address>
+        <pic>food/c_1_1.png</pic>
+        <html>food/food1_1.html</html>
+        <ch1>推荐：生菜包饭，铁板牛肉，酱花生</ch1>
+    </list>
+    <list id="2">
+        <title>南元水豆腐</title>
+        <address>地址:延南路与长海胡同交汇处东侧</address>
+        <pic>food/c_1_2.png</pic>
+        <html>food/food1_2.html</html>
+        <ch1>推荐:水豆腐，南元风味鸡，石板碟鱼头</ch1>
+    </list>
+    <list id="3">
+        <title>韩城狗肉馆</title>
+        <address>地址:中山区延安路</address>
+        <pic>food/c_1_3.png</pic>
+        <html>food/food1_3.html</html>
+        <ch1>推荐:狗肉火锅，红烧狗排，红烧狗爪</ch1>
+    </list>
+    <list id="4">
+        <title>全州拌饭馆</title>
+        <address>地址:延吉市发展恒润第一城</address>
+        <pic>food/c_1_4.png</pic>
+        <html>food/food1_4.html</html>
+        <ch1>推荐:营养牛肉饭 ，蔬菜石锅饭，百年石锅饭</ch1>
+    </list>
+    <list id="5">
+        <title>一美韩食馆</title>
+        <address>地址:延吉市公园派出所斜对面</address>
+        <pic>food/c_1_5.png</pic>
+        <html>food/food1_5.html</html>
+        <ch1>推荐:海鲜锅,排骨锅</ch1>
+    </list>
+    <list id="6">
+        <title>奔斯烤鸡</title>
+        <address>地址:延边大学东侧10米</address>
+        <pic>food/c_1_6.png</pic>
+        <html>food/food1_6.html</html>
+        <ch1>推荐:烤鸡,炸鸡</ch1>
+    </list>
+    <list id="7">
+        <title>韩林阁烤肉</title>
+        <address>地址:延吉市丰盛胡同与局子街交汇处东侧</address>
+        <pic>food/c_1_7.png</pic>
+        <html>food/food1_7.html</html>
+        <ch1>推荐:营养石锅饭，石锅拌饭</ch1>
+    </list>
+</food>

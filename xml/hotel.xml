@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<food>
+    <list id="1">
+        <title>延边国际饭店★★★★★</title>
+        <address>地址:延吉市友谊路118号</address>
+        <pic>hotel/8.png</pic>
+        <html>hotel/house8.html</html>
+        <ch1>推荐:牛肉面</ch1>
+    </list>
+    <list id="2">
+        <title>延边白山大厦★★★★</title>
+        <address>地址:延吉市友谊路66号</address>
+        <pic>hotel/7.png</pic>
+        <html>hotel/house7.html</html>
+        <ch1>电话:0433-2581111</ch1>
+    </list>
+    <list id="3">
+        <title>延吉韩城世纪酒店★★★★</title>
+        <address>地址:延吉市参花街238号</address>
+        <pic>hotel/12.png</pic>
+        <html>hotel/house12.html</html>
+        <ch1>电话:0433-2502222、2501577</ch1>
+    </list>
+    <list id="4">
+        <title>大宗大宇饭店★★★★</title>
+        <address>地址:延吉市局子街3118号</address>
+        <pic>hotel/6.png</pic>
+        <html>hotel/house6.html</html>
+        <ch1>电话:0433-2528888、2529898</ch1>
+    </list>
+    <list id="5">
+        <title>延吉大洲酒店★★★★</title>
+        <address>地址:延吉市河南区铁北路439号</address>
+        <pic>hotel/10.png</pic>
+        <html>hotel/house10.html</html>
+        <ch1>电话:0433-6195555</ch1>
+    </list>
+    <list id="6">
+        <title>延吉长白松宾馆★★★</title>
+        <address>地址:延吉市公园街588号</address>
+        <pic>hotel/24.png</pic>
+        <html>hotel/house24.html</html>
+        <ch1>电话:0433-8337777</ch1>
+    </list>
+    <list id="7">
+        <title>绿源大酒店★★★</title>
+        <address>地址:延吉市站前街28号</address>
+        <pic>hotel/4.png</pic>
+        <html>hotel/house4.html</html>
+        <ch1>电话:0433-2871111</ch1>
+    </list>
+    <list id="8">
+        <title>延边洲际国际商务酒店★★★</title>
+        <address>地址:延吉市站前街809号</address>
+        <pic>hotel/9.png</pic>
+        <html>hotel/house9.html</html>
+        <ch1>电话:0433-2265555</ch1>
+    </list>
+    <list id="9">
+        <title>延吉罗京饭店★★★</title>
+        <address>地址:延吉市公园路58号</address>
+        <pic>hotel/18.png</pic>
+        <html>hotel/house18.html</html>
+        <ch1>电话:0433-5013333</ch1>
+    </list>
+    <list id="10">
+        <title>延吉延边成宝温州酒店★★★</title>
+        <address>地址:延吉市解放路350号</address>
+        <pic>hotel/22.png</pic>
+        <html>hotel/house22.html</html>
+        <ch1>电话:0433-2901112</ch1>
+    </list>
+    <list id="11">
+        <title>延吉长虹大厦★★★</title>
+        <address>地址:延吉市光明街1030号</address>
+        <pic>hotel/25.png</pic>
+        <html>hotel/house25.html</html>
+        <ch1>电话:0433-8355555</ch1>
+    </list>
+    <list id="12">
+        <title>金洲假日酒店 ★★（延吉公园店）</title>
+        <address>地址:延吉市参花街130号</address>
+        <pic>hotel/1.png</pic>
+        <html>hotel/house1.html</html>
+        <ch1>电话:0433-2581666</ch1>
+    </list>
+    <list id="13">
+        <title>金洲假日酒店 ★★（延吉爱丹路店）</title>
+        <address>地址:延吉市爱丹路689号</address>
+        <pic>hotel/2.png</pic>
+        <html>hotel/house2.html</html>
+        <ch1>电话:0433-8389222</ch1>
+    </list>
+    <list id="14">
+        <title>如家快捷酒店★★</title>
+        <address>地址:延吉市长白山路2562号</address>
+        <pic>hotel/5.png</pic>
+        <html>hotel/house5.html</html>
+        <ch1>电话:0433-2805599</ch1>
+    </list>
+    <list id="15">
+        <title>延吉高丽大厦★★</title>
+        <address>地址:延吉市爱单路32号光华路</address>
+        <pic>hotel/11.png</pic>
+        <html>hotel/house11.html</html>
+        <ch1>电话:0433-2509501</ch1>
+    </list>
+    <list id="16">
+        <title>延吉桔子酒店★★</title>
+        <address>地址:延吉市解放路256-1号</address>
+        <pic>hotel/16.png</pic>
+        <html>hotel/house16.html</html>
+        <ch1>电话:0433-2588999</ch1>
+    </list>
+    <list id="17">
+        <title>延吉金凯悦假日酒店★★</title>
+        <address>地址:延吉市永乐街45号</address>
+        <pic>hotel/15.png</pic>
+        <html>hotel/house15.html</html>
+        <ch1>电话:0433-5115999</ch1>
+    </list>
+    <list id="18">
+        <title>延吉万隆酒店★★</title>
+        <address>地址:延吉市站前街28号</address>
+        <pic>hotel/21.png</pic>
+        <html>hotel/house21.html</html>
+        <ch1>电话:0433-2871111</ch1>
+    </list>
+    <list id="19">
+        <title>延吉明仕主题客栈★★</title>
+        <address>地址:延吉市公园路977号</address>
+        <pic>hotel/19.png</pic>
+        <html>hotel/house19.html</html>
+        <ch1>电话:0433-2713999</ch1>
+    </list>
+    <list id="20">
+        <title>延吉潘多拉时尚宾馆★★</title>
+        <address>地址:延吉市进学街步行街延边医药大厦综合楼</address>
+        <pic>hotel/20.png</pic>
+        <html>hotel/house20.html</html>
+        <ch1>电话0433-2870000</ch1>
+    </list>
+    <list id="21">
+        <title>延吉延京宾馆★★</title>
+        <address>地址:延吉市新兴街爱丹路139-1号</address>
+        <pic>hotel/23.png</pic>
+        <html>hotel/house23.html</html>
+        <ch1>电话:0433-2528846</ch1>
+    </list>
+    <list id="22">
+        <title>延吉弘大宾馆★★</title>
+        <address>地址:延吉市站前街28号</address>
+        <pic>hotel/13.png</pic>
+        <html>hotel/house13.html</html>
+        <ch1>电话:0433-2211188</ch1>
+    </list>
+    <list id="23">
+        <title>延吉乐佰家居商务宾馆★★</title>
+        <address>地址:延吉市河南街乐佰大厦金座6楼</address>
+        <pic>hotel/17.png</pic>
+        <html>hotel/house17.html</html>
+        <ch1>电话:0433-2871111</ch1>
+    </list>
+    <list id="24">
+        <title>延吉欢乐宫酒店★★</title>
+        <address>地址:延吉市铁北路816号</address>
+        <pic>hotel/14.png</pic>
+        <html>hotel/house14.html</html>
+        <ch1>电话:0433-2790000</ch1>
+    </list>
+    <list id="25">
+        <title>锦江之星★★</title>
+        <address>地址:延吉市光华路789号</address>
+        <pic>hotel/3.png</pic>
+        <html>hotel/house3.html</html>
+        <ch1>电话:0433-2820777</ch1>
+    </list>
+</food>

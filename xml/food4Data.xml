@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<food>
+    <list id="1">
+        <title>李先生餐厅</title>
+        <address>地址:延吉市新兴街人民路316号</address>
+        <pic>food/c_4_1.png</pic>
+        <html>food/food4_1.html</html>
+        <ch1>推荐:牛肉面</ch1>
+    </list>
+    <list id="2">
+        <title>比比客快餐</title>
+        <address>地址:延吉市新苗幼儿园东侧30米</address>
+        <pic>food/c_4_2.png</pic>
+        <html>food/food4_2.html</html>
+        <ch1>推荐:披萨</ch1>
+    </list>
+    <list id="3">
+        <title>嗨皮哪啦披萨</title>
+        <address>地址:延吉市新兴街明日胡同18号</address>
+        <pic>food/c_4_3.png</pic>
+        <html>food/food4_3.html</html>
+        <ch1>推荐:披萨</ch1>
+    </list>
+    <list id="4">
+        <title>卡浓咖啡</title>
+        <address>地址:延吉市公新银浦东侧60米处</address>
+        <pic>food/c_4_4.png</pic>
+        <html>food/food4_4.html</html>
+        <ch1>推荐:咖啡</ch1>
+    </list>
+    <list id="5">
+        <title>肯德基</title>
+        <address>地址:人民路与太平街交汇处西侧</address>
+        <pic>food/c_4_5.png</pic>
+        <html>food/food4_5.html</html>
+        <ch1></ch1>
+    </list>
+    <list id="6">
+        <title>第一寿司店</title>
+        <address>地址:延吉市新时代购物广场七楼</address>
+        <pic>food/c_4_6.png</pic>
+        <html>food/food4_6.html</html>
+        <ch1>推荐：鸭片鱼寿司</ch1>
+    </list>
+    <list id="7">
+        <title>哈纳吐司</title>
+        <address>地址:延边2中西门往北50米</address>
+        <pic>food/c_4_7.png</pic>
+        <html>food/food4_7.html</html>
+        <ch1>推荐:巴黎烤翅，鸡米花</ch1>
+    </list>
+</food>

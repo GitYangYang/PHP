@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<food>
+    <list id="1">
+        <title>延吉金达莱冷面</title>
+        <address>地址:延吉市海蓝路388号</address>
+        <pic>food/c_3_1.png</pic>
+        <html>food/food3_1.html</html>
+        <ch1>推荐:冷面</ch1>
+    </list>
+    <list id="2">
+        <title>罗先海鲜烧烤</title>
+        <address>地址:河南区金达莱美食街北头</address>
+        <pic>food/c_3_2.png</pic>
+        <html>food/food3_2.html</html>
+        <ch1>推荐:北极贝（烤/拌），象贝，辣炒海螺丝</ch1>
+    </list>
+    <list id="3">
+        <title>柳京饭店</title>
+        <address>地址:新兴街24号</address>
+        <pic>food/c_3_3.png</pic>
+        <html>food/food3_3.html</html>
+        <ch1>推荐:清蒸毛蟹,卢思烧烤，平壤冷面</ch1>
+    </list>
+    <list id="4">
+        <title>御宫烤贝</title>
+        <address>地址:原长白市场胡同南30米道西</address>
+        <pic>food/c_3_4.png</pic>
+        <html>food/food3_4.html</html>
+        <ch1>推荐:生吃生蚝,八爪鱼汤,海鲜啤酒锅,特色牛肉</ch1>
+    </list>
+    <list id="5">
+        <title>元奶奶参鸡汤</title>
+        <address>地址:延吉市公园梨花小学西侧（白宫串店旁边）</address>
+        <pic>food/c_3_5.png</pic>
+        <html>food/food3_5.html</html>
+        <ch1>推荐:参鸡汤 ,韩食</ch1>
+    </list>
+    <list id="6">
+        <title>帽儿山金氏土鸡店</title>
+        <address>地址:延吉市明新村1大队</address>
+        <pic>food/c_3_6.png</pic>
+        <html>food/food3_6.html</html>
+        <ch1>推荐:牛五花肉，烤风干肠</ch1>
+    </list>
+</food>

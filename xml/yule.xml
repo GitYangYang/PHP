@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<food>
+    <list id="1">
+        <title>梦都美滑雪场</title>
+        <address>电话:0433-8330777</address>
+        <pic>gg/sk1_1.png</pic>
+        <html>gg/sk_1.html</html>
+        <ch1></ch1>
+    </list>
+    <list id="2">
+        <title>万达长白山滑雪场</title>
+        <address>电话:4000987666</address>
+        <pic>gg/sk2_1.png</pic>
+        <html>gg/sk_2.html</html>
+        <ch1></ch1>
+    </list>
+    <list id="3">
+        <title>东方熊乐园</title>
+        <address>电话:0433-7889966</address>
+        <pic>gg/sk3.png</pic>
+        <html>gg/sk_3.html</html>
+        <ch1></ch1>
+    </list>
+</food>

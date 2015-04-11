@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<food>
+    <list id="1">
+        <title>延边国贸农业科技文化园</title>
+        <address>地址:南溪村西(国贸大厦斜对面)</address>
+        <pic>gg/gg_1.png</pic>
+        <html>gg/gg_1.html</html>
+        <ch1></ch1>
+    </list>
+    <list id="2">
+        <title>海兰湖风景区</title>
+        <address>地址:河龙村东2公里</address>
+        <pic>gg/gg_2.png</pic>
+        <html>gg/gg_2.html</html>
+        <ch1></ch1>
+    </list>
+    <list id="3">
+        <title>延边博物馆</title>
+        <address>地址:延吉市新兴街</address>
+        <pic>gg/gg_3.png</pic>
+        <html>gg/gg_3.html</html>
+        <ch1></ch1>
+    </list>
+    <list id="4">
+        <title>延边革命烈士陵园</title>
+        <address>地址:延吉市体校东侧</address>
+        <pic>gg/gg_4.png</pic>
+        <html>gg/gg_4.html</html>
+        <ch1></ch1>
+    </list>
+    <list id="5">
+        <title>防川风景区</title>
+        <address>地址:珲春防川</address>
+        <pic>gg/gg_5.png</pic>
+        <html>gg/gg_5.html</html>
+        <ch1></ch1>
+    </list>
+    <list id="6">
+        <title>敦化六顶山金鼎大佛</title>
+        <address>地址:六鼎山风景区内</address>
+        <pic>gg/gg_6.png</pic>
+        <html>gg/gg_6.html</html>
+        <ch1></ch1>
+    </list>
+    <list id="7">
+        <title>仙境台风景名胜区</title>
+        <address>地址:和龙仙境台</address>
+        <pic>gg/gg_7.png</pic>
+        <html>gg/gg_7.html</html>
+        <ch1></ch1>
+    </list>
+    <list id="8">
+        <title>非物质文化遗产展览馆</title>
+        <address>地址:图门</address>
+        <pic>gg/gg_8.png</pic>
+        <html>gg/gg_8.html</html>
+        <ch1></ch1>
+    </list>
+    
+    <list id="10">
+        <title>满天星旅游景区</title>
+        <address>地址:汪清县满天星景区旅游</address>
+        <pic>gg/gg_10.png</pic>
+        <html>gg/gg_10.html</html>
+        <ch1></ch1>
+    </list>
+    <list id="11">
+        <title>安图峡谷浮石林</title>
+        <address>地址:长白山北山门延图和线行驶6公里</address>
+        <pic>gg/gg_11.png</pic>
+        <html>gg/gg_11.html</html>
+        <ch1></ch1>
+    </list>
+    <list id="12">
+        <title>静泊湖</title>
+        <address>地址:黑龙江省牡丹江市宁安市</address>
+        <pic>gg/gg_12.png</pic>
+        <html>gg/gg_12.html</html>
+        <ch1></ch1>
+    </list>
+</food>
