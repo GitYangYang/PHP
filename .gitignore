@@ -30,3 +30,8 @@
 
 # Debug files
 *.dSYM/
+
+#Unpacking objects
+*.zip
+*.rar
+*.7z
